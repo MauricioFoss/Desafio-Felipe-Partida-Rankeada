@@ -1,4 +1,4 @@
-// Desafio DIO - Calculadora de Partidas Rankeadas (versão sem aleatório)
+// Desafio DIO 
 
 // Função que calcula saldo e retorna o nível
 function calcularRank(vitorias, derrotas) {
